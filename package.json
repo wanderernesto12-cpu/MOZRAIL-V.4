@@ -1,0 +1,8 @@
+{
+  "name": "mozrail-terminal",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=24" },
+  "scripts": { "start": "node server.mjs", "demo": "node server.mjs --demo", "test": "node --test" }
+}
